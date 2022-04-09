@@ -1,1 +1,1 @@
-Spring Boot with GraphQL Query Example
+Spring Boot with GraphQL Query
